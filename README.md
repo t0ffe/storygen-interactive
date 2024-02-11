@@ -27,11 +27,36 @@ As the story progresses, users are presented with choices or prompts that influe
 
 ## Installation
 
-TBD
+To install the Interactive Story Generation system, follow these steps:
+
+1. Clone the repository from GitHub:
+   ```
+   git clone https://github.com/t0ffe/storygen-interactive.git
+   ```
+2. Navigate to the project directory:
+   ```
+   cd interactive-story-generation
+   ```
+3. Install the required dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+4. Run the setup script:
+   ```
+   python setup.py install
+   ```
+
 
 ## Usage
 
-TBD
+To use the Interactive Story Generation system, you can follow these simple instructions:
+
+1. Launch the application by running:
+   ```
+   python main.py
+   ```
+2. Follow the on-screen prompts to provide textual prompts or image inputs.
+3. Enjoy the dynamically generated storylines tailored to your preferences!
 
 ## Acknowledgments
 
@@ -41,5 +66,5 @@ TBD
 
 ## License
 
-TBD
+This project is licensed under the MIT License.
 
